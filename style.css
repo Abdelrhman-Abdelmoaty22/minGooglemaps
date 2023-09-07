@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #123;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#map{
+    border-radius: 15px;
+    height: 90vh;
+    width: 90%;
+    margin: 0 auto;
+}
