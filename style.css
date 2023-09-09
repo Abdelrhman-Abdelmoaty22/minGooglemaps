@@ -23,10 +23,19 @@ footer{
     color: antiquewhite;
     margin-bottom: 50px;
     justify-content: center;
-    display: flex;
     font-size:larger;
 }
 
 a{
     color:coral;
+}
+
+a:hover{
+    color: greenyellow;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: x-small;
 }
