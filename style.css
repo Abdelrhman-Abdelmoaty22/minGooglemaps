@@ -17,3 +17,8 @@ body{
     width: 90%;
     margin: 0 auto;
 }
+
+footer{
+    margin-top: 50px;
+    color:chocolate;
+}
