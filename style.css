@@ -19,6 +19,14 @@ body{
 }
 
 footer{
-    margin-top: 50px;
-    color:chocolate;
+    text-align: center;
+    color: antiquewhite;
+    margin-bottom: 50px;
+    justify-content: center;
+    display: flex;
+    font-size:larger;
+}
+
+a{
+    color:coral;
 }
